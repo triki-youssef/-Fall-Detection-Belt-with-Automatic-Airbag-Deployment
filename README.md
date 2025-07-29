@@ -115,6 +115,9 @@ This two-stage filtering prevents false triggers from gestures or sitting down.
 <br/>
 <img src="https://i.imgur.com/SLZtCrd.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
+
+https://github.com/user-attachments/assets/fea46b87-7595-4f48-b969-8e58157afbff
+
 <br />
 <br />
 
